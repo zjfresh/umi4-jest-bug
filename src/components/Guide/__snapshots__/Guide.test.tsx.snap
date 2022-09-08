@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RemoteSelect unit test 渲染冒烟测试 1`] = `
+<div>
+  <section
+    class="ant-layout"
+  >
+    <div
+      class="ant-row"
+    >
+      <h3
+        class="ant-typography title"
+      >
+        欢迎使用 
+        <strong>
+          abc
+        </strong>
+         ！
+      </h3>
+    </div>
+  </section>
+</div>
+`;
